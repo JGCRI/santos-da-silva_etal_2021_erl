@@ -4,14 +4,20 @@ _your zenodo badge here_
 
 **The implications of uncertain renewable resource potentials for global solar and wind electricity projections**
 
-Silvia R. Santos da Silva<sup>1,2\*</sup>, Gokul Iyer<sup>2</sup>, Thomas B. Wild<sup>2,4,5</sup>, Mohamad I. Hejazi<sup>3/sup>, Chris R. Vernon<sup>2,6</sup>, Matthew Binsted<sup>2</sup>, Fernando Miralles-Wilhelm<sup>4,7</sup>
+Silvia R. Santos da Silva<sup>1,2\*</sup>, Gokul Iyer<sup>2</sup>, Thomas B. Wild<sup>2,4,5</sup>, Mohamad I. Hejazi<sup>3</sup>, Chris R. Vernon<sup>2,6</sup>, Matthew Binsted<sup>2</sup>, Fernando Miralles-Wilhelm<sup>4,7</sup>
 
 <sup>1 </sup> Department of Atmospheric and Oceanic Science, University of Maryland, College Park, Maryland, United States of America
+
 <sup>2 </sup> Joint Global Change Research Institute, Pacific Northwest National Laboratory, College Park, Maryland, United States of America
+
 <sup>3 </sup> King Abdullah Petroleum Studies and Research Center, Riyadh, Saudi Arabia
+
 <sup>4 </sup> Earth System Science Interdisciplinary Center, College Park, Maryland, United States of America
+
 <sup>5 </sup> Department of Civil and Environmental Engineering, University of Maryland, College Park, Maryland, United States of America
+
 <sup>6 </sup> Pacific Northwest National Laboratory, Richland, Washington, United States of America
+
 <sup>7 </sup> College of Science, George Mason University, Fairfax, Virginia, United States of America
 
 \* corresponding author:  silviameteoro@gmail.com
